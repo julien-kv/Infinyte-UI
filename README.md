@@ -1,6 +1,6 @@
 # infinyte_ui
 
-A new Flutter project.
+Initial UI Of Infinyte Project
 
 ## Getting Started
 
