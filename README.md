@@ -1,6 +1,6 @@
 # infinyte_ui
 
-Initial UI Of Infinyte Project
+Initial UI of Infinyte 
 
 ## Getting Started
 
